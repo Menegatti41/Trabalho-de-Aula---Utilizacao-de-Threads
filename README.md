@@ -1,2 +1,4 @@
 # Trabalho-de-Aula---Utilizacao-de-Threads
-Sistema em C para Windows com dois processos: P0 compila e executa P1, que lê IDs de um arquivo, processa-os em threads e gera logs com data, thread e resposta simulada em JSON. Configurado para rodar e depurar no Visual Studio Code com GCC.
+Projeto em C para Windows, executável via Prompt de Comando.
+O programa P0 compila automaticamente o P1, executa-o e aguarda sua finalização.
+O P1 lê IDs de lista_ids.txt, processa-os em múltiplas threads simulando respostas JSON e grava os resultados no arquivo logs.
