@@ -5,7 +5,7 @@ O P1 lê IDs de lista_ids.txt, processa-os em múltiplas threads simulando respo
 
 ====================PASSO A PASSO====================
 
-1ª Para rodar esse programa será necessário instalar o TDM-GCC. Link Downlaod: https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe
-2ª Fazer download do arquivo .rar anexado acima "projetos.rar" e extrair em uma pasta desejada.
+1ª Para rodar esse programa será necessário instalar o TDM-GCC. Link Downlaod: https://github.com/jmeubank/tdm-gcc/releases/download/v10.3.0-tdm64-2/tdm64-gcc-10.3.0-2.exe \n
+2ª Fazer download do arquivo .rar anexado acima "projetos.rar" e extrair em uma pasta desejada. \n
 3ª Depois de extrair o arquivo, abrir a pasta projetos/TPE e executar o arquivo "build_and_run".
 OBS.: Depois da execução, um arquivo chama "Log" será criado na pasta contendo todas as informações dos ids.
